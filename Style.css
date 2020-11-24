@@ -1,0 +1,53 @@
+body{
+	background-color: black;
+}
+.background{
+background: url('BigBounce.gif');
+background-size: 900px;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.img2{
+padding-top: 80px;
+
+}
+
+
+.img3{
+	padding-top: 500px;
+background: url('img3.jpg');
+background-size: 1500px;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.img4{
+	padding-top: 500px;
+background: url('img2.jpg');
+background-size: 1500px;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.img5{
+	padding-top: 500px;
+background: url('img.jpg');
+background-size: 1500px;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+
+
+.head{
+	padding-bottom: 40%;
+}
+
+.heads{
+	padding-bottom: 40%;
+}
+
+.heading{
+	padding-bottom: 40%;
+}
